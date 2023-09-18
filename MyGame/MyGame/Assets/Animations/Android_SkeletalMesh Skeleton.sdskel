@@ -1,0 +1,79 @@
+!Skeleton
+Id: c13cf1e7-c334-42ad-8b5e-0607296e0ceb
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../../../../../../../temp/Assets/Sword_and_Shield_Anims/Art/Models/Android_SkeletalMesh.fbx
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Nodes:
+    dc6e08d23443d6e8f4b630c6ba831a8e: {Name: RootNode, Depth: 0}
+    6d29b2d52f83d31e39e384053d0d8ebf: {Name: root, Depth: 1}
+    197ba1b1be86d66cc2ec9fe65dc890c8: {Name: pelvis, Depth: 2}
+    21305151f76337f1285156e99fd40819: {Name: spine_01, Depth: 3}
+    5d2d7c18074ffabe21aa2f622cc28d61: {Name: spine_02, Depth: 4}
+    2b9681c68e593cc0be8f3531c265a1a1: {Name: spine_03, Depth: 5}
+    26dbaaed84699b5288cf0e513d78c6b0: {Name: clavicle_l, Depth: 6}
+    52be3c5198e1450299d164698047990c: {Name: upperarm_l, Depth: 7}
+    b9de4fc4ce0ead7bcb8f068da741b5ed: {Name: lowerarm_l, Depth: 8}
+    1b6b7d44c4b9015e1537706d9b7026a8: {Name: hand_l, Depth: 9}
+    5f85d8b0601664f8fcb1a840bd1584a6: {Name: index_01_l, Depth: 10}
+    5f52da382e86576d64ae9bf5be8235ff: {Name: index_02_l, Depth: 11}
+    bf25760b99246d7c68698e33d93491d7: {Name: index_03_l, Depth: 12}
+    a8a72acd293f24072b31166720719c20: {Name: middle_01_l, Depth: 10}
+    f3b4778d9d3231f54f244a74e8510c34: {Name: middle_02_l, Depth: 11}
+    abb5b7e63ce3ff6c779920a1e1bfc172: {Name: middle_03_l, Depth: 12}
+    00faf75033cb11b8acdbe00be4a416ae: {Name: pinky_01_l, Depth: 10}
+    c46a91e059bfb63450d8eb4b076ab999: {Name: pinky_02_l, Depth: 11}
+    478ba35efa2097058f56ee11932547ba: {Name: pinky_03_l, Depth: 12}
+    19f0ce130df03672905cee40362351af: {Name: ring_01_l, Depth: 10}
+    413940387ed515a1fdb42c344ae0b58f: {Name: ring_02_l, Depth: 11}
+    6e172883a826e89da9b2ed0982203555: {Name: ring_03_l, Depth: 12}
+    e019f130881d65bc6880009f6a2379af: {Name: thumb_01_l, Depth: 10}
+    848419a253b4ec60351d965a334ea568: {Name: thumb_02_l, Depth: 11}
+    4abc87bee520164a19d46583c0deadb4: {Name: thumb_03_l, Depth: 12}
+    17752165c4b3451bc5431db9194fd265: {Name: lowerarm_twist_01_l, Depth: 9}
+    a424c699b854dbf1ce7ce3c9593deda5: {Name: upperarm_twist_01_l, Depth: 8}
+    f9800112def1f4486ebb1de4e20f05a6: {Name: clavicle_r, Depth: 6}
+    f7b490e248f1c242ade798ce195603b6: {Name: upperarm_r, Depth: 7}
+    9f9bdf8e59105d24d1d26cc4ba756fc4: {Name: lowerarm_r, Depth: 8}
+    e46c9f16ec3201916dd42f62a99b8294: {Name: hand_r, Depth: 9}
+    1d23823a9064f610560a78df8de447f4: {Name: index_01_r, Depth: 10}
+    3fd1c07e9118f664ba2aa0560b14d6ea: {Name: index_02_r, Depth: 11}
+    c2c2e8c013665bec989a219391746409: {Name: index_03_r, Depth: 12}
+    241883a4a35225deb850e18bbddeb5ae: {Name: middle_01_r, Depth: 10}
+    3b2b66b1f1bb160f40de8c080063ad71: {Name: middle_02_r, Depth: 11}
+    257b2d550be66010a8ab77afcc35bffc: {Name: middle_03_r, Depth: 12}
+    7545306ed3d1e383b6a2d7f48138c454: {Name: pinky_01_r, Depth: 10}
+    4d63159de80fdb697c32984101d70d30: {Name: pinky_02_r, Depth: 11}
+    bdf92d9281204c99cd890e9b17ce0fd5: {Name: pinky_03_r, Depth: 12}
+    3709942847df6e893c8ab28d229705ff: {Name: ring_01_r, Depth: 10}
+    f014229e73439bb173fd9750cdcef41d: {Name: ring_02_r, Depth: 11}
+    847c633de1060788fce3a2a1dee18160: {Name: ring_03_r, Depth: 12}
+    b78a8d0f6228e08913cf1143a79fd528: {Name: thumb_01_r, Depth: 10}
+    b19d4671279ff89d82340bc9f754b52a: {Name: thumb_02_r, Depth: 11}
+    5b73f50e5c665cab7c7d7a3d66bc7fec: {Name: thumb_03_r, Depth: 12}
+    aee3d20739ead9767162781763b0fd9a: {Name: lowerarm_twist_01_r, Depth: 9}
+    e140e246bcdf49efa44238862d8cfc39: {Name: upperarm_twist_01_r, Depth: 8}
+    657cdae4c5ea94b855e3a88983284861: {Name: neck_01, Depth: 6}
+    f2b535c30bd213e1ee253622e411c08b: {Name: head, Depth: 7}
+    248ba303727bb3b01b2e6089211cf0a4: {Name: thigh_l, Depth: 3}
+    6f542e23ddbe5103cc08c2f30db9237d: {Name: calf_l, Depth: 4}
+    1f39240ecb635574ec49a218b4b4eb11: {Name: calf_twist_01_l, Depth: 5}
+    18dc6b8fd09594e16bc6e5681cfbd539: {Name: foot_l, Depth: 5}
+    5a10a65fa5a93d3bcb77c648a1d34c52: {Name: ball_l, Depth: 6}
+    f6e24ee3335c9aa6e6c0b1d0e14b9687: {Name: thigh_twist_01_l, Depth: 4}
+    ed6795a75a8e9180ef8172716f2783a6: {Name: thigh_r, Depth: 3}
+    1a65e5f587f71e7084e03316bfef7ddc: {Name: calf_r, Depth: 4}
+    070a5de80a2f5fee2b4ac0c05d4ca061: {Name: calf_twist_01_r, Depth: 5}
+    1c46bd35c34cac0c05616328bb3243cd: {Name: foot_r, Depth: 5}
+    dd561cb87ad17663fc1f52cfa3675327: {Name: ball_r, Depth: 6}
+    4e8302b2b8bd81ee14f22f8eedee88f8: {Name: thigh_twist_01_r, Depth: 4}
+    14368063d5ad848a0a7d581fe073d66e: {Name: ik_foot_root, Depth: 2}
+    6e6f4a82da790575d8f84548fea4c2c5: {Name: ik_foot_l, Depth: 3}
+    c6a445a04e30c087cede0cad26a165fb: {Name: ik_foot_r, Depth: 3}
+    550317bbe44a63aca0f64bc33ef1a16d: {Name: ik_hand_root, Depth: 2}
+    5471c4265aa472d6af2aea6acfc3a1fe: {Name: ik_hand_gun, Depth: 3}
+    7c4a069df61a6a86427d27f75232d58e: {Name: ik_hand_l, Depth: 4}
+    bd7f785581f6ef0f2918c10f9d78e7bb: {Name: ik_hand_r, Depth: 4}
+    0870c0293666275816f9eac34fccd32d: {Name: Body, Depth: 1}
+~SourceHashes:
+    9dc04f5d6297e56dc475cf240acad876~../../../../../../../../temp/Assets/Sword_and_Shield_Anims/Art/Models/Android_SkeletalMesh.fbx: 585cdbe4ce296f4e0782e1fdba55ba36

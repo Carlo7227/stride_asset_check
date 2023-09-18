@@ -1,0 +1,20 @@
+!Animation
+Id: 8246e53a-f1e0-44b1-bf87-834a51cabe57
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../../../../../../../temp/Assets/Sword_and_Shield_Anims/Art/Animations/SwordAndShield_Idle_CombatReady.fbx
+ClipDuration:
+    Enabled: true
+    StartAnimationTime: 0:00:00:00.0000000
+    EndAnimationTime: 0:00:00:06.6666666
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+RepeatMode: PlayOnceHold
+Type: !StandardAnimationAssetType {}
+Skeleton: c13cf1e7-c334-42ad-8b5e-0607296e0ceb:Animations/Android_SkeletalMesh Skeleton
+RootMotion: false
+PreviewModel: 07a2aa30-9be9-4dc4-a6b9-870cd32309eb:Animations/Android_SkeletalMesh
+AnimationTimeMinimum: 0:00:00:00.0000000
+AnimationTimeMaximum: 0:00:00:06.6666600
+~SourceHashes:
+    ? b33ee68342c545f76ae49928276c1605~../../../../../../../../temp/Assets/Sword_and_Shield_Anims/Art/Animations/SwordAndShield_Idle_CombatReady.fbx
+    : 51067d588f1e9c75c7e435692ba4c99f

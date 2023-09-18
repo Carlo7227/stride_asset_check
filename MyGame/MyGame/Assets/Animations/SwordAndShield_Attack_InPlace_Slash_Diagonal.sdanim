@@ -1,0 +1,20 @@
+!Animation
+Id: b87439d4-e8e3-4e13-9cad-c5eacd415621
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../../../../../../../temp/Assets/Sword_and_Shield_Anims/Art/Animations/SwordAndShield_Attack_InPlace_Slash_Diagonal.fbx
+ClipDuration:
+    Enabled: false
+    StartAnimationTime: 0:00:00:00.0000000
+    EndAnimationTime: 0:00:30:00.0000000
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+RepeatMode: LoopInfinite
+Type: !StandardAnimationAssetType {}
+Skeleton: c13cf1e7-c334-42ad-8b5e-0607296e0ceb:Animations/Android_SkeletalMesh Skeleton
+RootMotion: false
+PreviewModel: 07a2aa30-9be9-4dc4-a6b9-870cd32309eb:Animations/Android_SkeletalMesh
+AnimationTimeMinimum: 0:00:00:00.0000000
+AnimationTimeMaximum: 0:00:00:01.6666600
+~SourceHashes:
+    ? f7edfe2bcca32b5e9eb1f24bef008521~../../../../../../../../temp/Assets/Sword_and_Shield_Anims/Art/Animations/SwordAndShield_Attack_InPlace_Slash_Diagonal.fbx
+    : c1c2a4133f65aac2cb2aeae5b8599dea

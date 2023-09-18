@@ -1,0 +1,27 @@
+!Model
+Id: 07a2aa30-9be9-4dc4-a6b9-870cd32309eb
+SerializedVersion: {Stride: 2.0.0.0}
+Tags: []
+Source: !file ../../../../../../../../temp/Assets/Sword_and_Shield_Anims/Art/Models/Android_SkeletalMesh.fbx
+Skeleton: c13cf1e7-c334-42ad-8b5e-0607296e0ceb:Animations/Android_SkeletalMesh Skeleton
+PivotPosition: {X: 0.0, Y: 0.0, Z: 0.0}
+Materials:
+    b0fb200d74fc2ffabc2db79e9714a098:
+        Name: Body
+        MaterialInstance:
+            Material: f297c37a-7470-4ea7-9b69-21ef93c5ed68:Animations/Body
+    ca25c4ac9215e4c7931629991567374a:
+        Name: Cables
+        MaterialInstance:
+            Material: 2b5af638-7c4a-432e-9ccd-343354ece3db:Animations/Cables
+    869c7bb9edc5bd00fe8d5295602d9c7b:
+        Name: Head
+        MaterialInstance:
+            Material: 04ad6c75-a917-499a-a743-345c8091eb59:Animations/Head
+    4f905fd2d5c3aff402246a62566fa64c:
+        Name: ribs
+        MaterialInstance:
+            Material: d08c9aff-ac7c-49c7-bede-1a144907e6c9:Animations/ribs
+Modifiers: {}
+~SourceHashes:
+    4bdd92b1b92ac608a9d395276dcc7049~../../../../../../../../temp/Assets/Sword_and_Shield_Anims/Art/Models/Android_SkeletalMesh.fbx: 585cdbe4ce296f4e0782e1fdba55ba36
